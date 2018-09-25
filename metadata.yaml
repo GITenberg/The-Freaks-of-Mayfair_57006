@@ -1,10 +1,13 @@
 _repo: The-Freaks-of-Mayfair_57006
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Plank, George
     gutenberg_agent_id: '49140'
     url: http://www.gutenberg.org/2009/agents/49140
+covers:
+- cover_type: archival
+  image_path: 57006-h/images/cover.jpg
 creator:
   author:
     agent_name: Benson, E. F. (Edward Frederic)
@@ -17,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/812
     wikipedia: http://en.wikipedia.org/wiki/Edward_Frederic_Benson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57006#The-Freaks-of-Mayfair
 gutenberg_issued: '2018-04-20'
 gutenberg_type: Text
 identifiers:
